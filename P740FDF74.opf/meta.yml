@@ -1,0 +1,50 @@
+id: P740FDF74
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,03: Ekottara'
+  language: bo
+  volumes:
+    80e95e601def45fe8f152c2977b70d1e:
+      title: CI_lists of eight
+      base_file: CI_lists of eight.txt
+      work_id: WF8E17141
+    d940008fedb844bfba6abc682c60574b:
+      title: CI_lists of five
+      base_file: CI_lists of five.txt
+      work_id: W0922BAE4
+    8e1719ae2c3e46e584691ee8bbe83d69:
+      title: CI_lists of four
+      base_file: CI_lists of four.txt
+      work_id: WDB9108DB
+    a1b96704a79a4723aea5adf77aae84aa:
+      title: CI_lists of nine
+      base_file: CI_lists of nine.txt
+      work_id: WA100CA66
+    a64a5e14f19044f6af43f2bef6e5e8db:
+      title: CI_lists of one
+      base_file: CI_lists of one.txt
+      work_id: WE817289E
+    03ee79e97f2a46faba3c400648a4d876:
+      title: CI_lists of seven
+      base_file: CI_lists of seven.txt
+      work_id: W04C29CE3
+    64c2e57bb921478ea229440bec4c3bfe:
+      title: CI_lists of six
+      base_file: CI_lists of six.txt
+      work_id: WE8348884
+    8c58dd9c80c54a1da3a4d4402e6fcd34:
+      title: CI_lists of ten
+      base_file: CI_lists of ten.txt
+      work_id: WAA84E877
+    062259b025784aceb5d8e3d1fae1b2db:
+      title: CI_lists of three
+      base_file: CI_lists of three.txt
+      work_id: WFEC976C3
+    159329c73bbb4ddaa5188af5ec8666ab:
+      title: CI_lists of two
+      base_file: CI_lists of two.txt
+      work_id: WCE574866
+  chapter_to_tile:
+    CI: Ekottara
+created_at: '2022-03-01T22:54:39.268972'
+last_modified_at: '2022-03-01T22:54:39.268980'
